@@ -15,3 +15,6 @@ print "His teeth are usually %s depending on the coffee." % my_teeth
 
 # This line is tricky, try to get it exactly right.
 print "If I add %d, %d, and %d I get %d." % (my_age, my_height, my_weight, my_age + my_height + my_weight)
+#Why did this comment not go through?
+print "And %d and %d mean crap." % (my_age, my_weight)
+
